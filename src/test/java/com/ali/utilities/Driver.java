@@ -1,4 +1,4 @@
-package utilities;
+package com.ali.utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.JavascriptExecutor;

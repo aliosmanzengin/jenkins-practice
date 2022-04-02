@@ -1,9 +1,9 @@
-package utilities;
+package com.ali.utilities;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 
-import static utilities.Driver.js;
+import static com.ali.utilities.Driver.js;
 
 public class JSUtils {
     /**
