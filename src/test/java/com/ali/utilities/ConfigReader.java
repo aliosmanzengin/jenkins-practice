@@ -1,4 +1,4 @@
-package utilities;
+package com.ali.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;

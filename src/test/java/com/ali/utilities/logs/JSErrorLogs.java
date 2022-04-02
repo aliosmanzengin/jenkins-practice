@@ -1,4 +1,4 @@
-package utilities.logs;
+package com.ali.utilities.logs;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.logging.LogEntries;
